@@ -3,7 +3,7 @@
 ## Quick start
 
 ```bash
-git clone https://github.com/elenakabachenko/formula-frontend-task-3.git <YOUR_DIRECTORY>
+git clone https://github.com/elenakabachenko/todo-app-hooks.git <YOUR_DIRECTORY>
 cd <YOUR_DIRECTORY>
 npm i
 npm start
