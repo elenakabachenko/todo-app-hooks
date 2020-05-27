@@ -1,0 +1,13 @@
+.todo-wrapper {
+  .todo-header-wrapper {
+    display: flex;
+    justify-content: center;
+    h4 {
+      padding: 0;
+      margin: 0;
+      font-weight: 500;
+      font-size: 25px;
+      line-height: 40px;
+    }
+  }
+}
